@@ -2,6 +2,8 @@
 
 ## Journal Papers
 
+X. Wu, Y. He, T. Wang, B. Cao, "Securing decentralized federated learning: An integrated approach with blockchain, TEE, and internal attack detection,”Expert Systems with Applications,Volume 322, 2026,132322, ISSN,0957-4174.
+
 S. X. Wu, Z. Huang, Z. Liang, L. Gu, T. Haradab, Z. Li, Y. Zhu，"Defender of privacy and fairness: Tiny but reversible generative model via mutually collaborative knowledge distillation", Neurocomputing, 2024.
 
 N. Zhang, Q. Li, S. X. Wu, J. Zhu and J. Han, “A Novel Influence Analysis Based University Major Similarity Study”, Educ. Sci. 2024, 14, x. https://doi.org/10.3390/
@@ -66,6 +68,10 @@ S. X. Wu, W.-K. Ma, and A. M.-C. So, “Achievable rate derivations and further 
 
 
 ## Conference Paper
+
+X. Zheng, H. Zhou and X. Wu, “Boosting RF Fingerprint Identification with a Pre-trained Time-Series Encoder," accepted by IEEE SAM 2026.
+
+Y. Li, X. Wu, Z. Weng and S. Zhang, “Enhanced Multidimensional Time Series Forecasting via Pre-trained Temporal Encoders and GNNs," accepted by IEEE SAM 2026.
 
 W.  Zhu, J.  Li, Z. Wang, Q.  Li, J. Lin and S. X. Wu, "Radio Frequency Fingerprints Identification based on GAN Networks", accepted by IEEE SPAWC 2023.
 
